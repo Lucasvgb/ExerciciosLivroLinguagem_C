@@ -8,14 +8,6 @@ int main ()
     {
         printf("%i\n",contador);
         ++contador;
-
     }
-
-
-
-
-
-
-
     return 0;
 }
